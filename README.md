@@ -1,5 +1,14 @@
 # 🚀 ARIZAK-MD Social Media Booster  
 
+
+## 📽️ Demo Preview  
+
+<p align="center">
+  <img src="https://github.com/a-rizak/ARIZAK-MD/blob/main/assets/demo-dashboard.png" width="700"/>
+</p>  
+
+🎥 *Watch how ARIZAK-MD automates boosting tasks and tracks analytics in real-time!*
+
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="500"/>
 </p>
