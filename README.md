@@ -1,9 +1,25 @@
-# ARIZAK-MD-social-media-booster-
 # 🚀 ARIZAK-MD Social Media Booster  
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="500"/>
 </p>
+
+<p align="center">
+  <a href="https://github.com/a-rizak/ARIZAK-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/a-rizak/ARIZAK-MD?style=for-the-badge&color=yellow" alt="Stars"/>
+  </a>
+  <a href="https://github.com/a-rizak/ARIZAK-MD/network/members">
+    <img src="https://img.shields.io/github/forks/a-rizak/ARIZAK-MD?style=for-the-badge&color=blue" alt="Forks"/>
+  </a>
+  <a href="https://github.com/a-rizak/ARIZAK-MD/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/a-rizak/ARIZAK-MD?style=for-the-badge&color=green" alt="License"/>
+  </a>
+  <a href="https://github.com/a-rizak/ARIZAK-MD/releases">
+    <img src="https://img.shields.io/github/v/release/a-rizak/ARIZAK-MD?style=for-the-badge&color=red" alt="Version"/>
+  </a>
+</p>
+
+---
 
 ## 📌 Overview  
 **ARIZAK-MD Social Media Booster** is a powerful and user-friendly automation tool designed to help you **grow, manage, and boost your social media presence** effortlessly.  
