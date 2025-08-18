@@ -50,3 +50,20 @@
   </ol>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Form Example</title>
+</head>
+<body>
+  <h2>Contact Me</h2>
+  <form>
+    Name: <input type="text" name="name"><br><br>
+    Email: <input type="email" name="email"><br><br>
+    Message: <textarea></textarea><br><br>
+    <button type="submit">Send</button>
+  </form>
+</body>
+</html>
